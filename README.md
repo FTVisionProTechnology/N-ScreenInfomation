@@ -2,6 +2,8 @@
 
 ## 👋 Welcome to N-Screen!
                 
+![](./resources/mac_preview.png)
+
 Our vision is that the screen is no longer limited by the device. You can use N-Screen to wirelessly connect all Mac, iOS, iPad, Windows PC, Android and even cameras and other devices, and synchronize their screens to the unlimited windows of Vision Pro!
                 
 At present, we have completed some functions of Vision pro, Mac and iOS, and the apps for windows and android are still under development, so stay tuned! 😀
@@ -32,15 +34,11 @@ If you want to cast your iPhone/iPad screen to Vision pro, you only need to sear
 
 ## Preview
 
-Mac preview
+iPhone Preview
 
-![](./resources/mac_preview.png)
+![](./resources/iphone_preview.png)
 
 Vision pro Preview
 
 ![](./resources/vision_pro_preview.png)
 
-
-iPhone Preview
-
-![](./resources/iphone_preview.png)
