@@ -18,7 +18,7 @@ At present, we have completed some functions of Vision pro, Mac and iOS, and the
 
  If you want to cast multiple desktops on Mac to Vision Pro, you need to download our N-Screen APP on Mac. After installation, it will automatically link with Vision Pro. After the link is successful, you can create multiple desktops on Mac. screen, you can now create multiple windows on Vision Pro to accept them.
 
-Here's the Mac download address: [N-Screen on GitHub](https://github.com/FTVisionProTechnology/N-ScreenInfomation.git)
+Here's the Mac download address: [N-Screen on GitHub](https://github.com/FTVisionProTechnology/N-ScreenInfomation/releases/tag/V1.0)
                 
 If you want to cast your iPhone/iPad screen to Vision pro, you only need to search for N-Screen on its app store and download it.
 
