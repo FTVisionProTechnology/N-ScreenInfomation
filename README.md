@@ -42,3 +42,6 @@ Vision pro Preview
 
 ![](./resources/vision_pro_preview.png)
 
+Mac preview
+
+![](./resources/mac_application_preview.png)
