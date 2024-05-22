@@ -1,6 +1,8 @@
 # N-ScreenInfomation
 
 ## 👋 Welcome to N-Screen!
+
+Here is our Official website: [【传送门】](https://n-screen-web.vercel.app/)
                 
 ![](./resources/mac_preview.png)
 
